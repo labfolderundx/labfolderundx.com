@@ -1,8 +1,6 @@
 title: Labfolder und X
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Eine Video-Serie, in der ich meine Erfahrungen mit dem Unternehmen Labfolder beschreibe.
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://labfolderundx.com" # the base hostname & protocol for your site, e.g. http://example.com
@@ -11,7 +9,7 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Labfolder & X # add your name
 author-img: labfolder-und-x.png # add your photo
-about-author: Hier geht es um das Unternehmen Labfolder. # add description
+about-author: Eine Video-Serie, in der ich meine Erfahrungen mit dem Unternehmen Labfolder beschreibe. # add description
 social-twitter: LabfolderUndX # add your Twitter handle
 #social-facebook: # add your Facebook handle
 #social-github: # add your Github handle
