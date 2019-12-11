@@ -2,7 +2,7 @@
 layout: post
 title: Das LKA kommt zu Besuch (Folge 2)
 date: 2019-12-06 00:00:00 +0200
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+description: Das Landeskriminalamt Berlin kommt zu Besuch und verdächtigt mich eine DOS-Hacker-Angriff gegen das Unternehmen Labfolder gemacht zu haben. Das Problem dabei ist, ich habe diesen DOS-Hacker-Angriff nicht gemacht.
 img: 2/Cover.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: # [Productivity, Workflow] # add tag
