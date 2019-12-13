@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Die Scheinfirma (Folge 4)
-date: 2019-12-13 00:00:00 +0200
+date: 2019-12-13 05:00:00 +0100
 description: Die Labfolder GmbH hat eine forensische Analyse erstellen lassen, um zu untersuchen welche Sicherheitslücken es in der Laborbuch-Software (ELN) gab, und wie diese von Hackern ausgenutzt wurden. Allerdings ist Forsima eine Scheinfirma, die es gar nicht gibt.
-img: 4/Cover.png # Add image post (optional)
+img: 4/Cover-thumb.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: # [Productivity, Workflow] # add tag
 youtubeID: yhTCaOxnh4A

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Wieso? Weshalb? Warum? (Folge 1)
-date: 2019-12-03 08:00:00 +0200
+date: 2019-12-03 08:00:00 +0100
 description: Ein kurzes Intro, warum ich diese Serie von Videos über das Unternehmen Labfolder GmbH mache. Es geht u.a. um Verstöße gegen den Datenschutz, Hackerangriffe und Ausbeutung von Mitarbeitern.
-img: 1/Cover.png # Add image post (optional)
+img: 1/Cover-thumb.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: # [Productivity, Workflow] # add tag
 youtubeID: TwJeYoP-kdw

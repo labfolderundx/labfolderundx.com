@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Die Zeugenaussage (Folge 3)
-date: 2019-12-10 08:00:00 +0200
+date: 2019-12-10 08:00:00 +0100
 description: Der Geschäftsführer der Labfolder GmbH hat beim Landeskriminalamt Berlin eine Zeugenaussage gemacht. Darin geht es u.a. auch um den DOS-Hacker-Angriff auf die Laborbuch-Software (ELN).
-img: 3/Cover.png # Add image post (optional)
+img: 3/Cover-thumb.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: # [Productivity, Workflow] # add tag
 youtubeID: TSwWRM0ljxs
