@@ -19,6 +19,11 @@ layout: main
         <h1 class="page-title">{{page.title}}</h1>
         <div class="page-date"><span>{{page.date | date: '%d.%m.%Y'}}&nbsp;&nbsp;&nbsp;&nbsp;</span></div>
       </header>
+
+      <center>
+        <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/{{page.youtubeID}}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </center>
+
       {{content | markdownify}}
       <div class="page-footer">
         <div class="page-tag">
