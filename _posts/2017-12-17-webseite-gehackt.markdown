@@ -22,7 +22,7 @@ Die Webseite von Labfolder wurde gehackt, weil es Labfolder versäumt hat entspr
   <img src="{{site.baseurl}}/assets/img/5/Website-Hack.png" alt="Website Hack" title="Website Hack" class="image-link" />
 </a>
 
-##### Falschaussage, des kein Risiko für die Laborbuch-Software (ELN) bestand
+##### Falschaussage, dass kein Risiko für die Laborbuch-Software (ELN) bestand
 <a href="{{site.baseurl}}/assets/img/5/No-Risk-For-ELN.png" target="_blank">
   <img src="{{site.baseurl}}/assets/img/5/No-Risk-For-ELN.png" alt="No Risk For ELN" title="No Risk For ELN" class="image-link" />
 </a>
