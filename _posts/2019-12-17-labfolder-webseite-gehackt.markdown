@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Webseite gehackt (Folge 5)
+title: Labfolder Webseite gehackt (Folge 5)
 date: 2019-12-17 08:00:00 +0100
 description: Die Webseite von Labfolder wurde gehackt, weil es Labfolder versäumt hat entsprechende Sicherheitsupdates rechtzeitig zu installieren. Hacker konnten in das Labfolder System eindringen und haben dort Daten manipuliert.
 img: 5/Cover-thumb.png # Add image post (optional)

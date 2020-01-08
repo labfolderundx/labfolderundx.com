@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sicherheit? Nein, Danke! (Folge 6)
+title: Labfolder? Sicherheit? Nein, Danke! (Folge 6)
 date: 2019-12-19 08:00:00 +0100
 description: Labfolder vergisst zum wiederholten Male sicherheitsrelevante Updates in das eigene System (Laborbuch / ELN) zu installieren. Das ist ein erhebliches Risiko für die Kunden und Nutzer von der Labfolder-Software.
 img: 6/Cover-thumb.png # Add image post (optional)
